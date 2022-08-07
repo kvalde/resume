@@ -1,0 +1,1 @@
+This is my resume website which was created using Next.js and Chakra UI as main tools
