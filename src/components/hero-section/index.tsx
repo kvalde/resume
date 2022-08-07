@@ -84,7 +84,7 @@ export const HeroSectrion = () => {
         <Image
           alt={'Author Picture'}
           objectFit={'contain'}
-          src={'/images/IMG_0993.JPG'}
+          src={'/images/IMG_2525.JPG'}
         />
         <Flex pt={5}>
           <Icon
