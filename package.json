@@ -13,7 +13,7 @@
     "@chakra-ui/icons": "^2.0.6",
     "@chakra-ui/react": "^2.2.1",
     "@emotion/react": "^11.7.1",
-    "@emotion/styled": "^11.6.0",
+    "@emotion/styled": "^11.11.0",
     "@fontsource/josefin-sans": "^4.5.1",
     "axios": "^0.27.2",
     "dotenv": "^16.0.1",
